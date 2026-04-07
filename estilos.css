@@ -209,7 +209,7 @@ a:active {
 }
 
 
-/* --- Novidade --- */
+/*  Novidade --- */
 .novidade::before {
   content: "Novidade!";
   background-color: green;

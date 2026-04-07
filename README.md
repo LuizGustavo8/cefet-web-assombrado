@@ -230,7 +230,7 @@ rolagem. Isso pode ser feito facilmente com o posicionamento `sticky`.
      ```css
      .boo {
        opacity: 0;
-       transition: all 200ms ease; /* <---- */
+       transition: all 200ms ease;
      }
      .boo:hover {
        opacity: 1;
